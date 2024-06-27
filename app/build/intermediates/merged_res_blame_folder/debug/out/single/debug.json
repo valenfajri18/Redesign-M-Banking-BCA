@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/drawable_payment_1.png.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/drawable/payment_1.png"
+    },
+    {
+        "merged": "com.ahmedapps.bankningappui.app-merged_res-50:/drawable_success.png.flat",
+        "source": "com.ahmedapps.bankningappui.app-main-52:/drawable/success.png"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/drawable_logo.png.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/drawable_ic_visa.png.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/drawable/ic_visa.png"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/drawable_info.png.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/drawable/info.png"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/drawable_ic_mastercard.png.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/drawable/ic_mastercard.png"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/xml_backup_rules.xml.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/drawable_cardless.png.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/drawable/cardless.png"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/drawable_transfer.png.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/drawable/transfer.png"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/drawable_shopping.png.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/drawable/shopping.png"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/drawable_flazz.png.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/drawable/flazz.png"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-merged_res-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ferzanoveri/.gradle/daemon/8.0/com.ahmedapps.bankningappui.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]

@@ -1,0 +1,52 @@
+com.ahmedapps.bankningappui.app-ui-unit-release-0 /Users/ferzanoveri/.gradle/caches/transforms-3/09a116c48672c1d232c5802172e19626/transformed/ui-unit-release/res
+com.ahmedapps.bankningappui.app-ui-util-release-1 /Users/ferzanoveri/.gradle/caches/transforms-3/0a3ef77a4d130e417c6c058960ccf285/transformed/ui-util-release/res
+com.ahmedapps.bankningappui.app-runtime-release-2 /Users/ferzanoveri/.gradle/caches/transforms-3/0f2e9819fc36fd8842ad0728ba710c5e/transformed/runtime-release/res
+com.ahmedapps.bankningappui.app-ui-tooling-preview-release-3 /Users/ferzanoveri/.gradle/caches/transforms-3/1b5c5953e4bc9a78e16d41456b3f8472/transformed/ui-tooling-preview-release/res
+com.ahmedapps.bankningappui.app-activity-compose-1.8.0-4 /Users/ferzanoveri/.gradle/caches/transforms-3/21c4e6449dfa1b21688f38a5c8625b01/transformed/activity-compose-1.8.0/res
+com.ahmedapps.bankningappui.app-animation-core-release-5 /Users/ferzanoveri/.gradle/caches/transforms-3/25a14e7d38fd99fec7a895815d44ee04/transformed/animation-core-release/res
+com.ahmedapps.bankningappui.app-core-ktx-1.13.0-6 /Users/ferzanoveri/.gradle/caches/transforms-3/2ce3fa1132af27b640269004421da588/transformed/core-ktx-1.13.0/res
+com.ahmedapps.bankningappui.app-core-runtime-2.2.0-7 /Users/ferzanoveri/.gradle/caches/transforms-3/2f78057e53a90a74ef47be54ec4962d3/transformed/core-runtime-2.2.0/res
+com.ahmedapps.bankningappui.app-emoji2-1.4.0-8 /Users/ferzanoveri/.gradle/caches/transforms-3/32060b108d7f7c7b5b16365027267292/transformed/emoji2-1.4.0/res
+com.ahmedapps.bankningappui.app-ui-test-manifest-1.5.4-9 /Users/ferzanoveri/.gradle/caches/transforms-3/340d5324e72e779bf2590caca54a75c8/transformed/ui-test-manifest-1.5.4/res
+com.ahmedapps.bankningappui.app-core-1.13.0-10 /Users/ferzanoveri/.gradle/caches/transforms-3/3957cdd5969c8cdb37b1a4c0b592b13a/transformed/core-1.13.0/res
+com.ahmedapps.bankningappui.app-savedstate-1.2.1-11 /Users/ferzanoveri/.gradle/caches/transforms-3/409c4363616eb8a35e3cc323f092f4a4/transformed/savedstate-1.2.1/res
+com.ahmedapps.bankningappui.app-lifecycle-livedata-2.6.2-12 /Users/ferzanoveri/.gradle/caches/transforms-3/46cfb7417afe2c404bccbb861b7cfa82/transformed/lifecycle-livedata-2.6.2/res
+com.ahmedapps.bankningappui.app-ui-text-release-13 /Users/ferzanoveri/.gradle/caches/transforms-3/4cbdf82fa5091236d815c642f3b5a763/transformed/ui-text-release/res
+com.ahmedapps.bankningappui.app-ui-tooling-release-14 /Users/ferzanoveri/.gradle/caches/transforms-3/553bb6ece7c0a3e3ec6457fc198dc666/transformed/ui-tooling-release/res
+com.ahmedapps.bankningappui.app-activity-ktx-1.8.0-15 /Users/ferzanoveri/.gradle/caches/transforms-3/5b2e89bec33416d4cba6e57efa3d0de7/transformed/activity-ktx-1.8.0/res
+com.ahmedapps.bankningappui.app-customview-poolingcontainer-1.0.0-16 /Users/ferzanoveri/.gradle/caches/transforms-3/60e5cc4e08f429b82f50d6ed5fe4f57a/transformed/customview-poolingcontainer-1.0.0/res
+com.ahmedapps.bankningappui.app-lifecycle-runtime-2.6.2-17 /Users/ferzanoveri/.gradle/caches/transforms-3/615951f1f2f88021aa65942ef10698dc/transformed/lifecycle-runtime-2.6.2/res
+com.ahmedapps.bankningappui.app-annotation-experimental-1.4.0-18 /Users/ferzanoveri/.gradle/caches/transforms-3/73961aad69f1a20dc49d05cf2703d6f4/transformed/annotation-experimental-1.4.0/res
+com.ahmedapps.bankningappui.app-emoji2-views-helper-1.4.0-19 /Users/ferzanoveri/.gradle/caches/transforms-3/84a62888bb968ade70519ec0d12c197b/transformed/emoji2-views-helper-1.4.0/res
+com.ahmedapps.bankningappui.app-startup-runtime-1.1.1-20 /Users/ferzanoveri/.gradle/caches/transforms-3/8a2b479ce30b6b6bd7226d107ea57c8f/transformed/startup-runtime-1.1.1/res
+com.ahmedapps.bankningappui.app-ui-tooling-data-release-21 /Users/ferzanoveri/.gradle/caches/transforms-3/8adffc7fba779d064013f69e573217a3/transformed/ui-tooling-data-release/res
+com.ahmedapps.bankningappui.app-fragment-1.5.4-22 /Users/ferzanoveri/.gradle/caches/transforms-3/8e61e32dd8c6b30d1e334b78e805aef5/transformed/fragment-1.5.4/res
+com.ahmedapps.bankningappui.app-lifecycle-process-2.6.2-23 /Users/ferzanoveri/.gradle/caches/transforms-3/903a19d75146d173f1ddd7984f60ae7c/transformed/lifecycle-process-2.6.2/res
+com.ahmedapps.bankningappui.app-material-ripple-release-24 /Users/ferzanoveri/.gradle/caches/transforms-3/91188f29c68ac331f4ba470dca898c6c/transformed/material-ripple-release/res
+com.ahmedapps.bankningappui.app-lifecycle-runtime-ktx-2.6.2-25 /Users/ferzanoveri/.gradle/caches/transforms-3/93a1fd08e65f9669a5677bb81f463648/transformed/lifecycle-runtime-ktx-2.6.2/res
+com.ahmedapps.bankningappui.app-foundation-release-26 /Users/ferzanoveri/.gradle/caches/transforms-3/93d182f03a3a0fa757ee191a742c37db/transformed/foundation-release/res
+com.ahmedapps.bankningappui.app-material3-1.0.0-27 /Users/ferzanoveri/.gradle/caches/transforms-3/95307028250a3d1c2707ec3c5d80d07c/transformed/material3-1.0.0/res
+com.ahmedapps.bankningappui.app-lifecycle-viewmodel-savedstate-2.6.2-28 /Users/ferzanoveri/.gradle/caches/transforms-3/960a0de90f3db1145f0769296c5370cf/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.ahmedapps.bankningappui.app-ui-release-29 /Users/ferzanoveri/.gradle/caches/transforms-3/a2f5da7b595b20ad2aa5031ae985b450/transformed/ui-release/res
+com.ahmedapps.bankningappui.app-foundation-layout-release-30 /Users/ferzanoveri/.gradle/caches/transforms-3/a7d13aff0aa6147cb1107da9ff24bc23/transformed/foundation-layout-release/res
+com.ahmedapps.bankningappui.app-appcompat-1.7.0-31 /Users/ferzanoveri/.gradle/caches/transforms-3/ad598e4a4027fc799c52758843a5a048/transformed/appcompat-1.7.0/res
+com.ahmedapps.bankningappui.app-ui-graphics-release-32 /Users/ferzanoveri/.gradle/caches/transforms-3/af0ff66a64fc03963fa92987c4249eb1/transformed/ui-graphics-release/res
+com.ahmedapps.bankningappui.app-ui-geometry-release-33 /Users/ferzanoveri/.gradle/caches/transforms-3/b18f7b0653f6b97170b013861c1aa464/transformed/ui-geometry-release/res
+com.ahmedapps.bankningappui.app-runtime-saveable-release-34 /Users/ferzanoveri/.gradle/caches/transforms-3/b4dc61f58de8405d8d0e45fa37cbafe0/transformed/runtime-saveable-release/res
+com.ahmedapps.bankningappui.app-savedstate-ktx-1.2.1-35 /Users/ferzanoveri/.gradle/caches/transforms-3/b6227494e1978e257edf363096d4c734/transformed/savedstate-ktx-1.2.1/res
+com.ahmedapps.bankningappui.app-appcompat-resources-1.7.0-36 /Users/ferzanoveri/.gradle/caches/transforms-3/da648782404cbe31dc22ef834186284f/transformed/appcompat-resources-1.7.0/res
+com.ahmedapps.bankningappui.app-material-release-37 /Users/ferzanoveri/.gradle/caches/transforms-3/dfe236b2a72d1d6d02d2b09a579ba94c/transformed/material-release/res
+com.ahmedapps.bankningappui.app-lifecycle-viewmodel-2.6.2-38 /Users/ferzanoveri/.gradle/caches/transforms-3/e65f58d32ff700c0bf26bdf4c6bb4101/transformed/lifecycle-viewmodel-2.6.2/res
+com.ahmedapps.bankningappui.app-material-icons-core-release-39 /Users/ferzanoveri/.gradle/caches/transforms-3/e9142930278966452b319cd583752791/transformed/material-icons-core-release/res
+com.ahmedapps.bankningappui.app-lifecycle-livedata-core-2.6.2-40 /Users/ferzanoveri/.gradle/caches/transforms-3/ecb0f6e521e75b75f3111efa6ada94b6/transformed/lifecycle-livedata-core-2.6.2/res
+com.ahmedapps.bankningappui.app-animation-release-41 /Users/ferzanoveri/.gradle/caches/transforms-3/ef2938fa71a5c75e19f0aca437596cd9/transformed/animation-release/res
+com.ahmedapps.bankningappui.app-profileinstaller-1.3.1-42 /Users/ferzanoveri/.gradle/caches/transforms-3/f0778a360a7ed3a748cf5d1110f7249b/transformed/profileinstaller-1.3.1/res
+com.ahmedapps.bankningappui.app-activity-1.8.0-43 /Users/ferzanoveri/.gradle/caches/transforms-3/f111b7c06ae4d9787bee61edf6f78cce/transformed/activity-1.8.0/res
+com.ahmedapps.bankningappui.app-lifecycle-viewmodel-ktx-2.6.2-44 /Users/ferzanoveri/.gradle/caches/transforms-3/f99ee789d41ef3eea90db31c96dc96af/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+com.ahmedapps.bankningappui.app-material-icons-extended-release-45 /Users/ferzanoveri/.gradle/caches/transforms-3/fd1e1004bd6b0170a6342a0fc5e3ed8d/transformed/material-icons-extended-release/res
+com.ahmedapps.bankningappui.app-resValues-46 /Users/ferzanoveri/Downloads/BCA Mobile/app/build/generated/res/resValues/debug
+com.ahmedapps.bankningappui.app-packageDebugResources-47 /Users/ferzanoveri/Downloads/BCA Mobile/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.ahmedapps.bankningappui.app-packageDebugResources-48 /Users/ferzanoveri/Downloads/BCA Mobile/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.ahmedapps.bankningappui.app-merged_res-49 /Users/ferzanoveri/Downloads/BCA Mobile/app/build/intermediates/merged_res/debug
+com.ahmedapps.bankningappui.app-debug-50 /Users/ferzanoveri/Downloads/BCA Mobile/app/src/debug/res
+com.ahmedapps.bankningappui.app-main-51 /Users/ferzanoveri/Downloads/BCA Mobile/app/src/main/res
